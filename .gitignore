@@ -1,0 +1,18 @@
+# Maven build directory
+target/
+
+# Build artifacts
+*.jar
+*.war
+
+# IDE settings
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# Environment or secret files
+.env
+*.key
+*.crt
